@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Shake to Torch</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
